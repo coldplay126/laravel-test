@@ -1,0 +1,46 @@
+# Laravel
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/clockwork
+/vendor
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+composer.lock
+
+# Environment
+.env
+.env.testing
+.env.backup
+
+# Mix
+/public/css
+/public/js
+/public/mix-manifest.json
+package-lock.json
+
+# IDEs and editors
+/.idea
+/.vscode
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sql
+
+# OS generated files
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
